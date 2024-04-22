@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-theme-monochrome"
+
+
+defaultContentLanguageInSubdir = true
+
+[params]
+github = 'github.com/tomasz-brak'
+color = 'gray'
+
+
+[languages]
+[languages.en]
+contentDir = 'content/en'
+disabled = false
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'Blog'
+weight = 2
+
+[languages.pl]
+contentDir = 'content/pl'
+disabled = false
+languageCode = 'pl-PL'
+languageDirection = 'ltr'
+languageName = 'Polski'
+title = 'Blog'
+weight = 2
