@@ -3,6 +3,9 @@ title: "Thhar, and a rant about OOP"
 date: 2024-04-17
 
 ---
+
+    Artykuł nie jest jeszcze dostępny po Polsku
+
 ## Why
 In 2023 I and a couple of friends have joined [Motorola science cup](https://science-cup.pl/) competition. One of our tasks was to design and code up a clone of an arcade classic [Battlezone](https://en.wikipedia.org/wiki/Battlezone_(1980_video_game)). And while i won't publish the whole game under my name since it was a collaborative effort. The engine was written by myself with a help of a few articles and similar projects see the *Sources* section.
 
