@@ -1,46 +1,46 @@
 [[navbar]]
 identifier = "demos"
-name = "Demos"
+name = "Dema"
 url = "/en/demos/"
 weight = 1
 
 [[navbar]]
 identifier = "thhar"
-name = "Thhar, a 3d rendering engine"
-url = "/en/demos/"
+name = "Thhar, silnik 3D"
+url = "/pl/demos/"
 parent = "demos"
 
 [[navbar]]
 identifier = "cube3d"
-name = "A 3d cube"
+name = "Kostka w 3D"
 url = "/en/demos/basic"
 parent = "thhar"
 
 [[navbar]]
 identifier = "Scolors"
-name = "Colorful cubes"
+name = "Kolorowe Kostki"
 url = "/en/demos/colors"
 parent = "thhar"
 
 [[navbar]]
 identifier = "teapot"
-name = "Sequenced cameras"
+name = "Sekfencja Kamer - Imbryk"
 url = "/en/demos/sequence"
 parent = "thhar"
 
 [[navbar]]
 identifier = "animation"
-name = "3D animation"
+name = "3D animacja"
 url = "/en/demos/animation"
 parent = "thhar"
 
 
 [[navbar]]
 identifier = "posts"
-name = "Posts"
-url = "/en/posts"
+name = "Posty"
+url = "/pl/posts"
 
 [[navbar]]
 identifier = "about"
-name = "About"
-url = "/en/about"
+name = "O mnie"
+url = "/pl/about"

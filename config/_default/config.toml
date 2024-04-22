@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en"
-title = "Monochrome"
+title = "My projects"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true

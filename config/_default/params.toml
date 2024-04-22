@@ -1,7 +1,7 @@
-navbar_title = 'Monochrome'
-footer = "Copyright © 2021-2023 by kaiiiz"
-author = "kaiiiz"
-color_scheme = "light"
+navbar_title = 'My projects'
+footer = '<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Personal Blog</span> by <span property="cc:attributionName">Tomasz Brak</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://upload.wikimedia.org/wikipedia/commons/8/82/CC_BY-SA_Andere_Wikis_%28v%29.svg" alt=""></a></p>'
+author = "Tomasz"
+color_scheme = "dark"
 
 enable_zooming_js = true
 enable_toc = true
@@ -25,9 +25,9 @@ enable_pagination = false
 [syntax_highlight]
 lib = "prism.js" # "builtin" | "prism.js"
 
-    [syntax_highlight.builtin]
-    enable_code_copy = true
+[syntax_highlight.builtin]
+enable_code_copy = true
 
-    [syntax_highlight.prism]
-    enable_code_copy = true
-    enable_line_no = false
+[syntax_highlight.prism]
+enable_code_copy = true
+enable_line_no = false
