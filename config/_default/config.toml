@@ -1,4 +1,4 @@
-baseURL = 'tomaszblog.vercel.app'
+baseURL = 'https://tomaszblog.vercel.app'
 languageCode = 'en-us'
 title = 'Personal Projects'
 theme = "hugo-theme-monochrome"
