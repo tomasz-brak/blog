@@ -1,6 +1,7 @@
 ---
 title: About me
 date: 2023-09-13
+draft: true
 ---
 
 ## Hi
